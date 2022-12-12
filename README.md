@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Seojun%20GitHub&fontSize=90)
 
-<h2 align="center"> 안녕하세요! 백엔드 개발자를 목표로 공부를 하고 있습니다! </h2> 
+<h2 align="center"> 안녕하세요! 백엔드 개발자를 목표로 공부를 하고 있습니다!! </h2> 
 
 
 ## 📜 learning
@@ -16,7 +16,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnseojun&layout=compact)](https://github.com/Ahnseojun/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnseojun&show_icons=true)
 
 
 <!-- ## 📩 Ask me about
