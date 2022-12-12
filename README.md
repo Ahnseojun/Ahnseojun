@@ -1,9 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Seojun%20GitHub&fontSize=90)
 <p align="center"> 안녕하세요! 백엔드 개발자를 목표로 공부를 하고 있습니다! </P>
 
 
 ## 📜 I’m currently learning
-<p align="center"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> &nbsp; <img src ="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> &nbsp;
+<p align="center"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> &nbsp; <img src ="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> </p>
+
 
 ## 💻Using Tool
 <p align="center">
@@ -15,23 +17,15 @@
 > formatting syntax is to make it as readable
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnseojun&layout=compact)](https://github.com/Ahnseojun/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orbitasj&langs_count=8)](https://github.com/orbitasj/github-readme-stats)
+
+
+<!-- My status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnseojun&show_icons=true)
+-->
 
 
 <!--
 **Ahnseojun/Ahnseojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-📜📃📩🎯💻
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
