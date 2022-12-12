@@ -1,4 +1,6 @@
 ### Hi there 👋
+안녕하세요! 백엔드 개발자를 목표로 공부를 하고 있습니다!
+
 
 <!--
 **Ahnseojun/Ahnseojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
