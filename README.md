@@ -1,5 +1,4 @@
-### Hi there 👋
-안녕하세요! 백엔드 개발자를 목표로 공부를 하고 있습니다!
+<p align="center"> 안녕하세요! 백엔드 개발자를 목표로 공부를 하고 있습니다! </P>
 
 
 ## 📜 I’m currently learning
@@ -16,6 +15,8 @@
 > formatting syntax is to make it as readable
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orbitasj&langs_count=8)](https://github.com/orbitasj/github-readme-stats)
 
 
 <!--
