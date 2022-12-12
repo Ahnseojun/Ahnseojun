@@ -2,14 +2,14 @@
 안녕하세요! 백엔드 개발자를 목표로 공부를 하고 있습니다!
 
 
-# 📜 I’m currently learning ...
+# 📜 I’m currently learning
 
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
- <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
+> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%23&logoColor=white"/> &nbsp; 
 
 
-# 📩 Ask me about ...
-
+# 📩 Ask me about
+> The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
 
 # 
 
