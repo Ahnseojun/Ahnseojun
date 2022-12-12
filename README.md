@@ -1,7 +1,7 @@
 ### Hi there 👋
 안녕하세요! 백엔드 개발자를 목표로 공부를 하고 있습니다!
 
-🌱 I’m currently learning ...<
+#🌱 I’m currently learning ...
 
 
 
